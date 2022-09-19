@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492027981726",
+    "firebase_url": "https://publicaciones-a60d5-default-rtdb.firebaseio.com",
+    "project_id": "publicaciones-a60d5",
+    "storage_bucket": "publicaciones-a60d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492027981726:android:af966b00c8487a809d708f",
+        "android_client_info": {
+          "package_name": "com.example.hackernews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492027981726-a89ig92hbeauphvdnljktc2fjje94edg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-lv0ppCV-NaNIXQ-w-vFitkup9NTyr4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492027981726-a89ig92hbeauphvdnljktc2fjje94edg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
